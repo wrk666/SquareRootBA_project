@@ -1,2 +1,3 @@
-# SquareRootBA_project
-This is the project of Square Root Bundle Adjustment implementation, based on online VIO Course of DeepBlue Institute.
+This project aims to rewrite a set of Bundle Adjustment solvers based on QR decomposition withouot optimization problem solver, and then we compare our solvers with ceres solver. The whole project frame is based on the online VIO Course of DeepBlue Institute.
+
+For more details of this project, please refer to my blog: [https://blog.csdn.net/qq_37746927/article/details/135449043](https://blog.csdn.net/qq_37746927/article/details/135449043)

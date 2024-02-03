@@ -1,0 +1,4 @@
+/home/heyijia/slam_ws/BASolver/rootBA/bin/CMakeFiles/edit_cache.dir
+/home/heyijia/slam_ws/BASolver/rootBA/bin/CMakeFiles/rebuild_cache.dir
+/home/heyijia/slam_ws/BASolver/rootBA/bin/CMakeFiles/test_rootba.dir
+/home/heyijia/slam_ws/BASolver/rootBA/bin/CMakeFiles/benchmark_rootba.dir
